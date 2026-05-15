@@ -57,25 +57,19 @@ Plataforma que rodo 24/7 pra monitorar mudanças em alvos de bug bounty.
 - Checa CVE nas tecnologias que detecta
 - Filtra ruído, dá nota de risco pra cada mudança, manda alerta no Telegram
 
-Código privado. Posso mostrar funcionando se fizer sentido.
+Código privado.
 
 ---
 
 ## Stack
 
-**Ferramentas:** Burp Suite Pro, Caido, Nuclei, ffuf, sqlmap, Amass, nmap
-**Linguagens:** Python, Go, JavaScript, Bash
-**Outros:** Linux, Docker, HackerOne, Bugcrowd
+Python · Go · Burp Suite Pro · Linux
 
 ---
 
 ## Programas
 
-Programas em que já reportei (lista pública, detalhes sob NDA):
-
-OpenAI · Coinbase · MercadoLibre · X (Twitter) · Ripio · Rapyd · SimScale · e outros privados
-
-Posso mandar writeups sanitizados se a conversa for séria.
+Já reportei pra programas públicos e privados em SaaS, fintech e produtos de IA — detalhes sob NDA.
 
 ---
 
