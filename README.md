@@ -59,6 +59,11 @@ Plataforma que rodo 24/7 pra monitorar mudanças em alvos de bug bounty.
 
 Código privado.
 
+### endpoint-watch
+Spinoff público — versão mínima da ideia de monitorar JS pra novos endpoints e segredos. Útil pra rodar em cron contra alvos de bug bounty.
+
+👉 [github.com/brennoRD/endpoint-watch](https://github.com/brennoRD/endpoint-watch)
+
 ---
 
 ## Stack
